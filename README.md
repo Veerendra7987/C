@@ -1,2 +1,2 @@
 # C
-Programs for C practice
+Programs for C practice.
